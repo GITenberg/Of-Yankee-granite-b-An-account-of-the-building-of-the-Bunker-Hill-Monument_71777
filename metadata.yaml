@@ -1,0 +1,30 @@
+_repo: Of-Yankee-granite-b-An-account-of-the-building-of-the-Bunker-Hill-Monument_71777
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Lawrence, John Silsbee
+    gutenberg_agent_id: '56393'
+    url: http://www.gutenberg.org/2009/agents/56393
+creator:
+  author:
+    agent_name: Cameron, E. H.
+    gutenberg_agent_id: '56392'
+    url: http://www.gutenberg.org/2009/agents/56392
+description: ''
+gutenberg_issued: '2023-10-02'
+identifiers:
+  gutenberg: '71777'
+language: en
+pgterms:marc905: 20230828065318cameron
+pgterms:marc906: '1952'
+pgterms:marc907: US
+production_note: Steve Mattern and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aBoston :$bBunker Hill Monument Association, $c1952, pubdate
+  1953.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Of Yankee granite : $b An account of the building of the Bunker Hill Monument'
+url: http://www.gutenberg.org/ebooks/71777
