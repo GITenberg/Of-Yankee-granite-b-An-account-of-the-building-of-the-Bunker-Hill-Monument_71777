@@ -5,12 +5,17 @@ contributor:
     agent_name: Lawrence, John Silsbee
     gutenberg_agent_id: '56393'
     url: http://www.gutenberg.org/2009/agents/56393
+covers:
+- cover_type: archival
+  image_path: 71777-h/images/cover.jpg
 creator:
   author:
     agent_name: Cameron, E. H.
     gutenberg_agent_id: '56392'
     url: http://www.gutenberg.org/2009/agents/56392
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71777#Of-Yankee-granite-b-An-account-of-the-building-of-the-Bunker-Hill-Monument
 gutenberg_issued: '2023-10-02'
 identifiers:
   gutenberg: '71777'
